@@ -1,0 +1,24 @@
+@import "./_reset";
+@import "./_variable";
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}
+.overflow{
+  overflow: hidden;
+}
+#app{
+  min-height: 100%;
+  margin: 0 auto;
+  width: 10rem;
+}
+html{
+  min-height: 100%;
+}
+body{
+  min-height: 100%;
+  position: absolute;
+  width:100%;
+}
